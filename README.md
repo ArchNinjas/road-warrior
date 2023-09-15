@@ -20,6 +20,8 @@ Logical Architecture
 
 Deployment Architecture
 
+![DeployView](https://github.com/ArchNinjas/road-warrior/assets/145123235/afde4354-cae9-4f65-96a6-a3aeb6a63030)
+
 Sequence Diagrams
 
 
