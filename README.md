@@ -13,6 +13,8 @@ Diagrams:
 User journey
 ![All-In-One-User Journey View drawio](https://github.com/nkpaladugu/ArchNinjas/assets/1698474/8e1cd38e-cd3d-4711-ae1b-f5ccededb8c3)
 
+https://github.com/ArchNinjas/road-warrior/blob/main/Architecture/cj.svg
+
 Logical Architecture
 
 ![Arch drawio](https://github.com/nkpaladugu/ArchNinjas/assets/1698474/3fd0004c-d154-4831-bb19-68015f3baad0)
