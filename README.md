@@ -39,7 +39,7 @@ ADR -02: Gateway pattern
 Deploy the services behind an API gateway for rate limiting & Security.
 
 
-ADR -03: CDC to Datawarehouse
+ADR -03: CDC to Datawarehouse.
 
 ADR -04: Edge Cache Service for better response times
 
