@@ -70,10 +70,11 @@ The following section highlights important architecure characteristics for succe
 
 ## Architecture Approach
 
-Before we take an approach, let's be reminded about the platform goals and constraints. Top 2 golas are 1. Start Small and scale as needed 2.Frequent and stable feature releases to be among top three travel apps. Limited funding is a constraint, the platform needs to generate revenue from the acumulated data, ethically and responsibly.
+Before we take an approach, let's be reminded about the platform goals and constraints. Top 2 golas are 1. Start small and scale as needed 2.Frequent and stable feature releases to be among top three travel apps. Limited funding is a constraint, the platform needs to generate revenue from the acumulated data, ethically and responsibly.
 
 ![Alt text](ArchitecturStyleSelection.PNG)
 
+Considering the product goals & constraints, a combination of Microservices architecture & Even Driven Architecture style is considered. Performance may take hit due to inter service communication but it is manageble trade off. Event driven architecture paired with microservices architecture makes the product more performant & resilient by emitting domain events. See ADR-1 for further details
 
 ![cj](https://github.com/ArchNinjas/road-warrior/blob/main/Architecture/cj.svg)
 
