@@ -9,37 +9,22 @@ About the team :
 5. Ramkumar
 
 # Contents 
-- [Introduction](#introduction)  
-- [Business Case](#business-case)
+- [ArchNinjas](#archninjas)
+  - [Repository for Oreilly Arch Kata Competition -2023](#repository-for-oreilly-arch-kata-competition--2023)
+- [Contents](#contents)
+  - [Introduction](#introduction)
+  - [Business Case](#business-case)
     - [Requirements](#requirements)
-    - [Constraints](#technical-constraints)
-- [Architecture Characteristics](#architecture-characteristics) 
-    - [Driving Characteristics](#driving-characteristics)
-    - [Implicit Characteristics](#implicit-characteristics)
-    - [Others Considered](#others-considered)
-- [Architecture Approach](#architecture-approach)
-    - [Goals](#goals)
-- [Context](#context)  
-    - [Actors](#actors)
-    - [Use Cases](#use-cases)
-    - [Event Storming](#event-storming)
-- [Containers](#containers)
-    - [Modular Monolith](#modular-monolith)
-    - [Service Containers](#service-containers)
-    - [API Layer](#api-layer)
-- [Components](#components)
-    - [Identity and Access Manager](#identity-and-access-manager)
-    - [Profile Manager](#profile-manager)
-    - [Connections Manager](#connections-manager)
-    - [Rewards Manager](#rewards-manager)
-    - [ETL Manager](#etl-manager)
-    - [Reporting and Analytics Manager](#reporting-and-analytics-manager)
-    - [Social Media API Manager](#social-media-api-manager)
-- [Deployment](#deployment)
-- [Cost Analysis](#cost-analysis)
-- [Evaluation, Risks and Architecture Fitness](#evaluation-risks-and-architecture-fitness)  
-- [ADRs](#adrs)
-- [References](#references)
+    - [Constraints](#constraints)
+  - [Architecture Characteristics](#architecture-characteristics)
+  - [Architecture Approach](#architecture-approach)
+  - [Components \& Communication](#components--communication)
+  - [Customer journey](#customer-journey)
+  - [Logical Architecture](#logical-architecture)
+  - [Deployment Architecture](#deployment-architecture)
+  - [Sequence Diagrams](#sequence-diagrams)
+  - [Components](#components)
+  - [CHAT BOT](#chat-bot)
 
 
 ## Introduction
@@ -80,19 +65,21 @@ Considering the product goals & constraints, a combination of Microservices arch
 
 ![Alt text](<all-in-one-Sept 16-Componentncomm.drawio.png>)
 
+## Customer journey
+
 
 ![cj](https://github.com/ArchNinjas/road-warrior/blob/main/Architecture/cj.svg)
 
-Logical Architecture
+## Logical Architecture
 
 ![Arch drawio](https://github.com/nkpaladugu/ArchNinjas/assets/1698474/3fd0004c-d154-4831-bb19-68015f3baad0)
 
 
-Deployment Architecture
+## Deployment Architecture
 
 ![DeployView](https://github.com/ArchNinjas/road-warrior/assets/145123235/afde4354-cae9-4f65-96a6-a3aeb6a63030)
 
-Sequence Diagrams
+## Sequence Diagrams
 
 ## Components
 
