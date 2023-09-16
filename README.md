@@ -64,8 +64,7 @@ Considering the product goals & constraints, a combination of Microservices arch
 
 ## Components & Communication
 
-![Alt text](<all-in-one-Sept 16-Componentncomm.drawio.png>)
-
+![Alt text](Compo&Comm.png)
 ## Customer journey
 
 
