@@ -30,7 +30,8 @@ Road Warrior is on a mission to transform the way you plan and enjoy travel. As 
 Road Warrior is meticulously designed to simplify the user experience for booking, itinerary planning, and on road support, all within a single, user-friendly interface on web & mobile. Whether you're pursuing wanderlust, relaxation, or business trip, we've got your travel needs covered.
 
 ### Requirements
-Richest cross clatform user interface- Mobile & Web.<br>
+<ul>
+<li>Richest cross clatform user interface- Mobile & Web</li>
 Near realtime Synchronized trips booked through the agencies.<br>
 15 mil total users and 2 mil active users per week.Expecting rapid user growth<br>
 As a Startup, start small and scale as needed.<br>
@@ -40,6 +41,7 @@ Architecture must support -
       <li>Highly Available</li>
       <li>Elasticity i.e </li>
     </ul>
+</ul>
 Comprehensive Requirements are avalble at---
 
 ### Constraints
