@@ -111,7 +111,7 @@ Cost Savings: By automating routine tasks and reducing the workload on our human
 
 Data Insights: The chatbot collects valuable data on traveler preferences, trends, and common pain points. This data helps us continually improve our services and offerings.
 
-![CB](https://github.com/ArchNinjas/road-warrior/blob/main/Architecture/chatbot.png)
+[Chatbot Architecture](Architecture/chatbot.png)
 
 ADRs
 
