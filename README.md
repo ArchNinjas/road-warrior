@@ -23,6 +23,7 @@ About the team :
   - [Logical Architecture](#logical-architecture)
   - [Deployment Architecture](#deployment-architecture)
   - [Sequence Diagrams](#sequence-diagrams)
+  - [Architecture Decissions](#architecture-decissions)
   - [Components](#components)
   - [CHAT BOT](#chat-bot)
 
@@ -80,6 +81,18 @@ Considering the product goals & constraints, a combination of Microservices arch
 ![DeployView](https://github.com/ArchNinjas/road-warrior/assets/145123235/afde4354-cae9-4f65-96a6-a3aeb6a63030)
 
 ## Sequence Diagrams
+  - Book A Trip
+  - Partner/Agency Integration
+  - Askme
+
+
+## Architecture Decissions
+  - ADR-01 - Combibation of Microservices & Event Driven Style
+  - ADR-02 - API Gateway Pattern
+  - ADR-03 - Network Edge Services for Performance
+  - ADR-04 - Change Data Capture
+  - ADR-05 - Data Consistency & Eventuality
+  - ADR-06 - User Experience- Cross pltform Build- React Native
 
 ## Components
 
