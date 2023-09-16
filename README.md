@@ -3,8 +3,8 @@
 <!-- https://github.com/ArchNinjas/road-warrior -->
 About the team :
 1. Karthik
-2. Thahir Ahmed
-3. Narendra Paladugu
+2. Narendra Paladugu
+3. Thahir Ahmed
 4. Rahul Upadhye
 5. Ramkumar
 
@@ -75,6 +75,11 @@ Before we take an approach, let's be reminded about the platform goals and const
 ![Alt text](ArchitecturStyleSelection.PNG)
 
 Considering the product goals & constraints, a combination of Microservices architecture & Even Driven Architecture style is considered. Performance may take hit due to inter service communication but it is manageble trade off. Event driven architecture paired with microservices architecture makes the product better performant & resilient. Pefrmance may be further managed by spinning off the additional runtime pods dynamically. See ADR-1 for further details.
+
+## Components & Communication
+
+![Alt text](<all-in-one-Sept 16-Componentncomm.drawio.png>)
+
 
 ![cj](https://github.com/ArchNinjas/road-warrior/blob/main/Architecture/cj.svg)
 

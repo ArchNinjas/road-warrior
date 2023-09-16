@@ -14,3 +14,4 @@ Since the implication of a security breach has implications not just for level o
 
 ##Consequences
 Procuring and implementing an API gateway is additional cost and there will be additional steps required to be considered when rollout out new APIs or newer versions of APIs.
+
