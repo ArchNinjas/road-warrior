@@ -10,16 +10,16 @@
 
 # Contents 
   [Introduction](#introduction)
-  - [Requirements](#requirements)
-  - [Constraints](#constraints)
-  - [Architecture Characteristics](#architecture-characteristics)
-  - [Architecture Approach](#architecture-approach)
-  - [Customer Journey](#customer-journey)
-  - [Components \& Communication](#components--communication)
-  - [Logical Architecture](#logical-architecture)
-  - [Deployment Architecture for High Availability](#deployment-architecture-for-high-availability)
-  - [Architecture Decision Records](#architecture-decision-records)
-  - [Sequence Diagrams](#sequence-diagrams)
+  [Requirements](#requirements)
+  [Constraints](#constraints)
+  [Architecture Characteristics](#architecture-characteristics)
+  [Architecture Approach](#architecture-approach)
+  [Customer Journey](#customer-journey)
+  [Components \& Communication](#components--communication)
+  [Logical Architecture](#logical-architecture)
+  [Deployment Architecture for High Availability](#deployment-architecture-for-high-availability)
+  [Architecture Decision Records](#architecture-decision-records)
+  [Sequence Diagrams](#sequence-diagrams)
 
 
 ## Introduction
