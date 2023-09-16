@@ -76,7 +76,7 @@ High Level System Decomposition & Communication Dependency
 ## Logical Architecture
 Component further decomposition to low level. Also depicts the identified domain microservices & their communication
 To-do - Differentiate Sync vs Asnc & ETLs, placement of Agencies?
-![Logical Architecture drawio](https://github.com/ArchNinjas/road-warrior/assets/1698474/e6b10449-4faf-4cd2-8c66-51f6f4b79882)
+![LogicalArch drawio](https://github.com/ArchNinjas/road-warrior/assets/1698474/cb7786f3-6a87-4c77-b56f-f86d8f3d5c52)
 
 ## Deployment Architecture for High Availability
 To-Do : Blue-Green deployment for Uninterrupted Servicce, AZ3 needed?, How to deploy Globally , DR database sync
