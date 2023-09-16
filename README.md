@@ -9,7 +9,7 @@
 5. Ramkumar Srinivasan
 
 # Contents 
-  [Introduction](#introduction).
+  [Introduction](#introduction)  
   [Requirements](#requirements).
   [Constraints](#constraints)
   [Architecture Characteristics](#architecture-characteristics)
