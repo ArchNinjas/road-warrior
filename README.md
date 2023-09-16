@@ -62,22 +62,26 @@ Before we take an approach, let's be reminded about the platform goals and const
 
 Considering the product goals & constraints, a combination of Microservices architecture & Even Driven Architecture style is considered. Performance may take hit due to inter service communication but it is manageble trade off. Event driven architecture paired with microservices architecture makes the product better performant & resilient. Pefrmance may be further managed by spinning off the additional runtime pods dynamically. See ADR-1 for further details.
 
-## Components & Communication
-
-![Alt text](Compo&Comm.png)
-## Customer journey
-
+## Customer Journey
+To-do : Color scheme tomatch other diagrams
 
 ![cj](https://github.com/ArchNinjas/road-warrior/blob/main/Architecture/cj.svg)
 
-## Logical Architecture
+## Components & Communication
+High Level System Decomposition & Communication Dependency
 
+![Compo Comm](https://github.com/ArchNinjas/road-warrior/assets/1698474/51fe342c-4f60-4aae-bbb2-02955626e824)
+
+
+## Logical Architecture
+Component further decomposition to low level. Also depicts the identified domain microservices & their communication
+To-do - Differentiate Sync vs Asnc & ETLs
 ![Logical Architecture drawio](https://github.com/ArchNinjas/road-warrior/assets/1698474/e6b10449-4faf-4cd2-8c66-51f6f4b79882)
 
-
 ## Deployment Architecture for High Availability
+To-Do : Blue-Green deployment for Uninterrupted Servicce
+![Deployment drawio](https://github.com/ArchNinjas/road-warrior/assets/1698474/8849b9fe-cec5-4543-bcca-ee9fff5f0a6c)
 
-![Alt text](DeploymentDiag.drawio.png)
 ## Sequence Diagrams
   - Book A Trip
   - Partner/Agency Integration
