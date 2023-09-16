@@ -83,7 +83,7 @@ To-Do : Blue-Green deployment for Uninterrupted Servicce, AZ3 needed?, How to de
 ![Deployment drawio](https://github.com/ArchNinjas/road-warrior/assets/1698474/8849b9fe-cec5-4543-bcca-ee9fff5f0a6c)
 
 ## Architecture Decissions
-  - ADR-01 - Combibation of Microservices & Event Driven Style [a relative link](Architecture/ADRs/ADR-01- Microservices Architecture Style.md)
+  - ADR-01 - Combibation of Microservices & Event Driven Style [a link] (https://github.com/ArchNinjas/road-warrior/blob/main/Architecture/ADRs/ADR-01-%20Microservices%20Architecture%20Style.md)
   - ADR-02 - API Gateway Pattern
   - ADR-03 - Network Edge Services for Performance
   - ADR-04 - Change Data Capture
