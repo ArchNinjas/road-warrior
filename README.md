@@ -1,7 +1,7 @@
 
 ## Repository for Oreilly Arch Kata Competition -2023
 <!-- https://github.com/ArchNinjas/road-warrior -->
-## ArchNinjas team :
+## ArchNinjas Team :
 1. Karthik
 2. Narendra Paladugu
 3. Thahir Ahmed
