@@ -6,7 +6,7 @@ The Team :
 2. Narendra Paladugu
 3. Thahir Ahmed
 4. Rahul Upadhye
-5. Ramkumar
+5. Ramkumar Srinivasan
 
 # Contents 
 - [ArchNinjas](#archninjas)
