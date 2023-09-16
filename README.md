@@ -5,7 +5,7 @@ About the team :
 1. Karthik
 2. Thahir Ahmed
 3. Narendra Paladugu
-4. Rahul
+4. Rahul Upadhye
 5. Ramkumar
 
 # Contents 
