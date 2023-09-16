@@ -9,10 +9,9 @@
 5. Ramkumar Srinivasan
 
 # Contents 
-- [Contents](#contents)
   - [Introduction](#introduction)
-    - [Requirements](#requirements)
-    - [Constraints](#constraints)
+  - [Requirements](#requirements)
+  - [Constraints](#constraints)
   - [Architecture Characteristics](#architecture-characteristics)
   - [Architecture Approach](#architecture-approach)
   - [Customer Journey](#customer-journey)
