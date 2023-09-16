@@ -44,7 +44,7 @@ As a start up, Road warrior wanted to start small be elastic and dynamic to roll
 
 ## Architecture Characteristics
 
-The following section highlights important architecure characteristics for successful implementation of the product.
+The following section highlights significant architecure characteristics and establishes traceability between architecture characterstic and requirements.
 
 | Top 5 | Architectural Characteristic                   |  Considerations                                                                                                                                     | Architecture Decisions                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |-------|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
