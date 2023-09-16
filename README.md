@@ -72,7 +72,7 @@ Considering the product goals & constraints, a combination of Microservices arch
 
 ## Logical Architecture
 
-![Arch drawio](https://github.com/nkpaladugu/ArchNinjas/assets/1698474/3fd0004c-d154-4831-bb19-68015f3baad0)
+![Logical Architecture drawio](https://github.com/ArchNinjas/road-warrior/assets/1698474/e6b10449-4faf-4cd2-8c66-51f6f4b79882)
 
 
 ## Deployment Architecture for High Availability
