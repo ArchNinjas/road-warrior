@@ -9,17 +9,18 @@
 5. Ramkumar Srinivasan
 
 # Contents 
-- [Introduction](#introduction)
-- [Requirements](#requirements)
-- [Constraints](#constraints)
-- [Architecture Characteristics](#architecture-characteristics)
-- [Architecture Approach](#architecture-approach)
-- [Customer Journey](#customer-journey)
-- [Components \& Communication](#components--communication)
-- [Logical Architecture](#logical-architecture)
-- [Deployment Architecture for High Availability](#deployment-architecture-for-high-availability)
-- [Architecture Decision Records](#architecture-decision-records)
-- [Sequence Diagrams](#sequence-diagrams)
+- [Contents](#contents)
+  - [Introduction](#introduction)
+    - [Requirements](#requirements)
+    - [Constraints](#constraints)
+  - [Architecture Characteristics](#architecture-characteristics)
+  - [Architecture Approach](#architecture-approach)
+  - [Customer Journey](#customer-journey)
+  - [Components \& Communication](#components--communication)
+  - [Logical Architecture](#logical-architecture)
+  - [Deployment Architecture for High Availability](#deployment-architecture-for-high-availability)
+  - [Architecture Decision Records](#architecture-decision-records)
+  - [Sequence Diagrams](#sequence-diagrams)
 
 
 ## Introduction
@@ -44,7 +45,6 @@ Comprehensive Requirements are avalble in the provided doc.
 ### Constraints
 As a Startup, start small and scale as needed. We also **assumed** that the solution need to be cost-effective during the initial years
 
-As a start up, Road warrior wanted to start small be elastic and dynamic to rollour globally with continuous improvements. In this journey, platform stability, consist user experience on cross platforms and beating the competition with value added services are key all the wihile Road Warrior team also need to be mindful about technology investment yet be ready for elastic scale.
 
 ## Architecture Characteristics
 
