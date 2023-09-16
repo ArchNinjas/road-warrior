@@ -21,7 +21,7 @@ About the team :
   - [Components \& Communication](#components--communication)
   - [Customer journey](#customer-journey)
   - [Logical Architecture](#logical-architecture)
-  - [Deployment Architecture](#deployment-architecture)
+  - [Deployment Architecture for High Availability](#deployment-architecture-for-high-availability)
   - [Sequence Diagrams](#sequence-diagrams)
   - [Architecture Decissions](#architecture-decissions)
   - [Components](#components)
@@ -75,7 +75,7 @@ Considering the product goals & constraints, a combination of Microservices arch
 ![Arch drawio](https://github.com/nkpaladugu/ArchNinjas/assets/1698474/3fd0004c-d154-4831-bb19-68015f3baad0)
 
 
-## Deployment Architecture
+## Deployment Architecture for High Availability
 
 ![Alt text](DeploymentDiag.drawio.png)
 ## Sequence Diagrams
