@@ -19,7 +19,7 @@
   - [Components \& Communication](#components--communication)
   - [Logical Architecture](#logical-architecture)
   - [Deployment Architecture for High Availability](#deployment-architecture-for-high-availability)
-  - [Architecture Decission Records](#architecture-decission-records)
+  - [Architecture Decision Records](#architecture-decision-records)
   - [Sequence Diagrams](#sequence-diagrams)
   - [Components](#components)
   - [CHAT BOT](#chat-bot)
@@ -86,17 +86,17 @@ To-Do : Blue-Green deployment for Uninterrupted Servicce, AZ3 needed?, How to de
 
 ## Architecture Decision Records
   - [ADR-01 - Combination of Microservices & Event Driven Style](Architecture/ADRs/ADR-01-CombinationofMicroservicesArchitecture&EventDrivenStyle.md)
-  - ADR-02 - API Gateway Pattern
-  - ADR-03 - Network Edge Services for Performance
-  - ADR-04 - Change Data Capture
-  - ADR-05 - Data Consistency & Eventuality
-  - ADR-06 - User Experience- Cross platform Build- React Native
+  - [ADR-02 - API Gateway Pattern](Architecture/ADRs/APIGateway.md)
+  - [ADR-03 - Network Edge Services for Performance](Architecture/ADRs/ADR-02-NetworkEdgeLocations.md)
+  - [ADR-04 - Change Data Capture](Architecture/ADRs/ADR-03-ChangeDataCapture.md)
+  - [ADR-05 - Data Consistency & Eventuality](Architecture/ADRs/)
+  - [ADR-06 - User Experience- Cross platform Build- React Native](Architecture/ADRs)
 
 
 ## Sequence Diagrams
-  - Book A Trip
-  - Partner/Agency Integration
-  - Askme
+  - [Book A Trip](SequenceDiagrams/TheRoadWarrior_Sequence_AddTrip.png)
+  - [Partner/Agency Integration](SequenceDiagrams/PI-Update.png)
+  - [Askme](SequenceDiagrams/Askme.png)
 
 ## Components
 
@@ -126,4 +126,4 @@ Change data capture(CDC) empowers businesses to move at the speed of their data.
 
 ADR -04: Edge Cache Service for better response times
 
-ADR -04: React JS for Web & React Native for Mobile
+ADR-04: ReactJSforWeb&ReactNativeforMobile
