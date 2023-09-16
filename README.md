@@ -2,28 +2,25 @@
 ## Repository for Oreilly Arch Kata Competition -2023
 <!-- https://github.com/ArchNinjas/road-warrior -->
 ## ArchNinjas Team :
-1. Karthik
+1. Karthik Thiyagarajan
 2. Narendra Paladugu
-3. Thahir Ahmed
+3. Thahir Ahamed
 4. Rahul Upadhye
 5. Ramkumar Srinivasan
 
 # Contents 
-- [ArchNinjas](#archninjas)
-  - [Repository for Oreilly Arch Kata Competition -2023](#repository-for-oreilly-arch-kata-competition--2023)
 - [Contents](#contents)
   - [Introduction](#introduction)
-  - [Business Case](#business-case)
     - [Requirements](#requirements)
     - [Constraints](#constraints)
   - [Architecture Characteristics](#architecture-characteristics)
   - [Architecture Approach](#architecture-approach)
+  - [Customer Journey](#customer-journey)
   - [Components \& Communication](#components--communication)
-  - [Customer journey](#customer-journey)
   - [Logical Architecture](#logical-architecture)
   - [Deployment Architecture for High Availability](#deployment-architecture-for-high-availability)
+  - [Architecture Decission Records](#architecture-decission-records)
   - [Sequence Diagrams](#sequence-diagrams)
-  - [Architecture Decissions](#architecture-decissions)
   - [Components](#components)
   - [CHAT BOT](#chat-bot)
 
@@ -32,14 +29,20 @@
 
 Road Warrior is on a mission to transform the way you plan and enjoy travel. As a dynamic and innovative travel management startup, our vision is to rank among the top three travel aggregator apps, offering a comprehensive solution for all your travel requirements.
 
-Road Warrior is meticulously crafted to simplify booking, itinerary planning, and on road support, all within a single, user-friendly interface on web & mobile. Whether you're pursuing wanderlust, relaxation, or business trip, we've got your travel needs covered.
+Road Warrior is meticulously designed to simplify the user experience for booking, itinerary planning, and on road support, all within a single, user-friendly interface on web & mobile. Whether you're pursuing wanderlust, relaxation, or business trip, we've got your travel needs covered.
 
-## Business Case
 ### Requirements
+Richest Cross Platform user interface- Mobile & web app for trip booking & trip management
+Synchronized Trips booke through the agencies
+15 mil users and 2 mil active users/week
+Highly Avalable & Un Interrupted Service Avalability
+As a Startup, Start small and scale as needed
+
+Comprehensive Requirements are avalble at---
 
 ### Constraints
 
-As a start up, Road warrior wanted to start small be elastic and dynamic to rollour globally with continuous improvements. In thi journey platform stability, consist user experience on cross platforms and beating the competition with value added services are key all the wihile Road Warrior team also need to be mindful about technology investment yet be ready for elastic scale.
+As a start up, Road warrior wanted to start small be elastic and dynamic to rollour globally with continuous improvements. In this journey, platform stability, consist user experience on cross platforms and beating the competition with value added services are key all the wihile Road Warrior team also need to be mindful about technology investment yet be ready for elastic scale.
 
 ## Architecture Characteristics
 
