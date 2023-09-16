@@ -74,7 +74,7 @@ Before we take an approach, let's be reminded about the platform goals and const
 
 ![Alt text](ArchitecturStyleSelection.PNG)
 
-Considering the product goals & constraints, a combination of Microservices architecture & Even Driven Architecture style is considered. Performance may take hit due to inter service communication but it is manageble trade off. Event driven architecture paired with microservices architecture makes the product more performant & resilient by emitting domain events. See ADR-1 for further details
+Considering the product goals & constraints, a combination of Microservices architecture & Even Driven Architecture style is considered. Performance may take hit due to inter service communication but it is manageble trade off. Event driven architecture paired with microservices architecture makes the product better performant & resilient. Pefrmance may be further managed by spinning off the additional runtime pods dynamically. See ADR-1 for further details.
 
 ![cj](https://github.com/ArchNinjas/road-warrior/blob/main/Architecture/cj.svg)
 
