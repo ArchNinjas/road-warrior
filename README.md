@@ -68,29 +68,29 @@ Considering the product goals & constraints, a combination of Microservices arch
 ## Customer Journey
 To-do : Color scheme tomatch other diagrams
 
-![cj](https://github.com/ArchNinjas/road-warrior/blob/main/Architecture/cj.png)
+![cj](Architecture/cj.png)
 
 ## Components & Communication
 High Level System Decomposition & Communication Dependency
 
-![Compo Comm](https://github.com/ArchNinjas/road-warrior/assets/1698474/51fe342c-4f60-4aae-bbb2-02955626e824)
+![Compo Comm](Resources/Compo&Comm.png)
 
 
 ## Logical Architecture
 Component further decomposition to low level. Also depicts the identified domain microservices & their communication
-![LogicalArch drawio](https://github.com/ArchNinjas/road-warrior/assets/1698474/cb7786f3-6a87-4c77-b56f-f86d8f3d5c52)
+![LogicalArch drawio](Resources/LogicalArch.drawio.png)
 
 ## Deployment Architecture for High Availability
 To-Do : Blue-Green deployment for Uninterrupted Servicce, AZ3 needed?, How to deploy Globally , DR database sync
-![Deployment drawio](https://github.com/ArchNinjas/road-warrior/assets/1698474/8849b9fe-cec5-4543-bcca-ee9fff5f0a6c)
+![Deployment drawio](Resources/Deployment.drawio.png)
 
 ## Architecture Decision Records
-  - [ADR-01 - Combibation of Microservices & Event Driven Style](Architecture/ADRs/ADR-01-CombinationofMicroservicesArchitecture&EventDrivenStyle.md)
+  - [ADR-01 - Combination of Microservices & Event Driven Style](Architecture/ADRs/ADR-01-CombinationofMicroservicesArchitecture&EventDrivenStyle.md)
   - ADR-02 - API Gateway Pattern
   - ADR-03 - Network Edge Services for Performance
   - ADR-04 - Change Data Capture
   - ADR-05 - Data Consistency & Eventuality
-  - ADR-06 - User Experience- Cross pltform Build- React Native
+  - ADR-06 - User Experience- Cross platform Build- React Native
 
 
 ## Sequence Diagrams
