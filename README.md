@@ -84,7 +84,7 @@ Component further decomposition to low level. Also depicts the identified domain
 To-Do : Blue-Green deployment for Uninterrupted Servicce, AZ3 needed?, How to deploy Globally , DR database sync
 ![Deployment drawio](https://github.com/ArchNinjas/road-warrior/assets/1698474/8849b9fe-cec5-4543-bcca-ee9fff5f0a6c)
 
-## Architecture Decission Records
+## Architecture Decision Records
   - [ADR-01 - Combibation of Microservices & Event Driven Style](Architecture/ADRs/ADR-01-CombinationofMicroservicesArchitecture&EventDrivenStyle.md)
   - ADR-02 - API Gateway Pattern
   - ADR-03 - Network Edge Services for Performance
