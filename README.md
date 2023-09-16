@@ -82,12 +82,6 @@ To-do - Differentiate Sync vs Asnc & ETLs
 To-Do : Blue-Green deployment for Uninterrupted Servicce
 ![Deployment drawio](https://github.com/ArchNinjas/road-warrior/assets/1698474/8849b9fe-cec5-4543-bcca-ee9fff5f0a6c)
 
-## Sequence Diagrams
-  - Book A Trip
-  - Partner/Agency Integration
-  - Askme
-
-
 ## Architecture Decissions
   - ADR-01 - Combibation of Microservices & Event Driven Style
   - ADR-02 - API Gateway Pattern
@@ -95,6 +89,12 @@ To-Do : Blue-Green deployment for Uninterrupted Servicce
   - ADR-04 - Change Data Capture
   - ADR-05 - Data Consistency & Eventuality
   - ADR-06 - User Experience- Cross pltform Build- React Native
+
+
+## Sequence Diagrams
+  - Book A Trip
+  - Partner/Agency Integration
+  - Askme
 
 ## Components
 
