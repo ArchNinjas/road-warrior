@@ -89,6 +89,20 @@ Deployment Architecture
 
 Sequence Diagrams
 
+## Components
+
+## CHAT BOT  
+
+Using a chatbot effectively involves careful planning, ongoing monitoring, and a commitment to improving the user experience. When executed well, chatbots can enhance customer service, streamline operations, and provide valuable insights into user behavior and preferences.
+Protect user data and privacy by implementing security measures and complying with relevant data protection regulations like GDPR or HIPAA, depending on your industry.Incorporating a chatbot into our raod Warrior is a testament to our commitment to providing unparalleled service to our clients. We believe that this innovative addition will not only enhance experience but also make it more efficient, cost-effective, and enjoyable. 
+
+Human Touch When Needed: While the chatbot handles most tasks, our human customer center are always available for complex queries or situations where a personal touch is required.
+
+Cost Savings: By automating routine tasks and reducing the workload on our human travel agents, we can pass on cost savings to our clients. This allows us to offer competitive pricing and excellent value for money.
+
+Data Insights: The chatbot collects valuable data on traveler preferences, trends, and common pain points. This data helps us continually improve our services and offerings.
+
+![CB](https://github.com/ArchNinjas/road-warrior/blob/main/Architecture/chatbot.png)
 
 ADRs
 
