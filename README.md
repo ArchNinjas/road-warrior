@@ -68,7 +68,7 @@ Considering the product goals & constraints, a combination of Microservices arch
 ## Customer Journey
 To-do : Color scheme tomatch other diagrams
 
-![cj](https://github.com/ArchNinjas/road-warrior/blob/main/Architecture/cj.svg)
+![cj](https://github.com/ArchNinjas/road-warrior/blob/main/Architecture/cj.png)
 
 ## Components & Communication
 High Level System Decomposition & Communication Dependency
