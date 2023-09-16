@@ -10,9 +10,9 @@
 
 # Contents 
   [Introduction](#introduction)  
-  [Requirements](#requirements).
-  [Constraints](#constraints)
-  [Architecture Characteristics](#architecture-characteristics)
+  [Requirements](#requirements)  
+  [Constraints](#constraints)  
+  [Architecture Characteristics](#architecture-characteristics)  
   [Architecture Approach](#architecture-approach)
   [Customer Journey](#customer-journey)
   [Components \& Communication](#components--communication)
