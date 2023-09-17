@@ -67,7 +67,6 @@ The following section highlights significant architecure characteristics and **e
 Considering the requirements & significant archtecture charactristics, a combination of Microservices Architecture & Even Driven Architecture style is considered. With Microservices, performance may take hit due to increased inter service communication but it is a manageble trade off. Event driven architecture paired with microservices architecture makes the product better performant & resilient. Pefrmance may be further managed by spinning off the additional runtime service instances dynamically. See ADR-1 for further details.
 
 ## Customer Journey
-To-do : Color scheme tomatch other diagrams
 
 ![cj](Architecture/cj.png)
 
@@ -82,7 +81,7 @@ Component further decomposition to low level. Also depicts the identified domain
 ![LogicalArch drawio](Resources/LogicalArch.drawio.png)
 
 ## Deployment Architecture for High Availability
-To-Do : Blue-Green deployment for Uninterrupted Servicce, AZ3 needed?, How to deploy Globally , DR database sync
+
 ![Deployment drawio](Resources/Deployment.drawio.png)
 
 ## Architecture Decision Records
