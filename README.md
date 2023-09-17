@@ -86,11 +86,10 @@ Component further decomposition to low level. Also depicts the identified domain
 
 ## Architecture Decision Records
   - [ADR-01 - Combination of Microservices & Event Driven Style](Architecture/ADRs/ADR-01-CombinationofMicroservicesArchitecture&EventDrivenStyle.md)
-  - [ADR-02 - API Gateway Pattern](Architecture/ADRs/APIGateway.md)
+  - [ADR-02 - API Gateway Pattern](Architecture/ADRs/ADR-04-APIGateway.md)
   - [ADR-03 - Network Edge Services for Performance](Architecture/ADRs/ADR-02-NetworkEdgeLocations.md)
   - [ADR-04 - Change Data Capture](Architecture/ADRs/ADR-03-ChangeDataCapture.md)
-  - [ADR-05 - Data Consistency & Eventuality](Architecture/ADRs/)
-  - [ADR-06 - User Experience- Cross platform Build- React Native](Architecture/ADRs)
+  - [ADR-05 - User Experience- Cross platform Build- React Native](Architecture/ADRs/ADR-05-ReactJSforWeb&ReactNativeforMobile.md)
 
 
 ## Sequence Diagrams
