@@ -16,7 +16,7 @@ JavaScript components of web applications could be reused and ported into a nati
 
 Nearly full native performance. Device capabilities like contacts, camera, calendar etc can be invoked using Cordova SDK.
 
-###Using ReactNative & ReactJS framework will reduc ethe efforts needed for development & testing.
+**Using ReactNative & ReactJS framework will reduce the efforts needed for development & testing during initial years**
 
 ## Consequences
 
