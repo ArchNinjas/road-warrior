@@ -21,4 +21,4 @@ Nearly full native performance. Device capabilities like contacts, camera, calen
 ## Consequences
 
 Look and feel ( UI) may not be excatly as native apps. But this is a conscious decision for cost effective & speedy development across 3 platforms during initial years.
-Once userbase is captured & platform matures, the Javascript platform may be replaced eventually for native UI & UX.
+Once user base is captured & platform matures, the Javascript platform may be replaced eventually with respetive native development(Ios & Android) for native UI & UX.
